@@ -6,4 +6,4 @@ Our vision is to accelerate the world's transition into the cryptoverse. Using o
 
 🧙 Learn more from our [**website**](https://particle.network)
 
-🙋‍♀️ Join our [**discord developer community**](https://discord.com/invite/qwysge6cgF)
+🙋‍♀️ Join our [**discord developer community**](https://discord.gg/2y44qr6CR2)
