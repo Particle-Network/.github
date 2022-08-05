@@ -8,7 +8,7 @@
 
 **Particle Connect** is the SSO for web3. We help you onboard both Web2 & Web3 users **seamlessly, securely & user-friendly.**
 
-[👉 Learn more about Particle Connect](broken-reference)
+[👉 Learn more about Particle Connect](https://docs.particle.network/connect-service/)
 
 ### Auth Service
 
@@ -18,11 +18,11 @@ With threshold signatures, each party creates an independent key. They then forg
 
 Our security is unlike any other auth/wallet service: it's better. Complex passwords and long seed phrases, browser extensions, and special hardware are no longer required for log-in. Instead, accounts are secured by industry-leading TSS implementation and KMS encryption.
 
-[👉 Learn more about how we implement this 🔐](security.md)
+[👉 Learn more about how we implement this 🔐](https://docs.particle.network/security)
 
 With Particle Auth integrated into your dApp, users can log in within seconds. By removing seed phrases, we can increase conversion rates by up to 64% for both new and Web3.0 users.
 
-[👉 Learn more about Particle Auth](auth-service/introduction.md)
+[👉 Learn more about Particle Auth](https://docs.particle.network/auth-service/)
 
 ### Wallet Service
 
@@ -30,7 +30,7 @@ With Particle Auth integrated into your dApp, users can log in within seconds. B
 
 We've included detailed designs in our wallet service to create the ultimate user experience. By integrating Particle Wallet with a one-line code, we help you provide users with token and NFT-related functions, transaction and payment processes, as well as other operations to deliver a first-class user experience.
 
-👉[ Learn more about Particle Wallet](wallet-service/introduction.md)
+👉[ Learn more about Particle Wallet](https://docs.particle.network/wallet-service/)
 
 ### Node Service
 
@@ -38,19 +38,19 @@ We've included detailed designs in our wallet service to create the ultimate use
 
 Not only do we have JSON-RPC support, but also enhanced API. This allows you to receive transaction information and NFTs through addresses, obtain token prices, smartly encode/decode transactions, and more. Compared to other node services, you develop your dApp faster while also ensuring that it performs better.
 
-[👉 Learn more about Particle Node](node-service/introduction.md)
+[👉 Learn more about Particle Node](https://docs.particle.network/node-service/)
 
 ### **NFT Service**
 
 **Particle NFT** provides a one-stop NFT Create, Manage, Distribute, and Marketplace solution.
 
-[👉 Learn more about Particle NFT](broken-reference)
+[👉 Learn more about Particle NFT](https://docs.particle.network/nft-service/)
 
 ### Decentralized Storage
 
 We support IPFS now, and more decentralized storage services are coming.
 
-[👉 Learn more about IPFS](ipfs-service.md)
+[👉 Learn more about IPFS](https://docs.particle.network/ipfs-service/)
 
 ### More Incoming Services
 
