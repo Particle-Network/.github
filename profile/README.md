@@ -50,7 +50,7 @@ Not only do we have JSON-RPC support, but also enhanced API. This allows you to 
 
 We support IPFS now, and more decentralized storage services are coming.
 
-[👉 Learn more about IPFS](https://docs.particle.network/ipfs-service/)
+[👉 Learn more about IPFS](https://docs.particle.network/node-service/ipfs-service)
 
 ### More Incoming Services
 
@@ -64,7 +64,7 @@ We support [Android, iOS, Web & Unity](https://github.com/particle-network) now.
 
 ## Available Networks
 
-Currently, we support almost **all EVM-compatible chains** and **the Solana chain**. [For details check this 👉](available-networks.md)
+Currently, we support almost **all EVM-compatible chains** and **the Solana chain**. [For details check this 👉](https://docs.particle.network/available-networks/)
 
 # Learn More
 
@@ -73,4 +73,3 @@ Currently, we support almost **all EVM-compatible chains** and **the Solana chai
 🧙 Learn more from our [**website**](https://particle.network)
 
 🙋‍♀️ Join our [**discord developer community**](https://discord.gg/2y44qr6CR2)
-
