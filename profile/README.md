@@ -1,6 +1,6 @@
 # Introduction
 
-**Particle Network** is a full-stack, data-driven, and composable Web3 data and development platform. Our vision is to accelerate the world's transition into the cryptoverse. Using our powerful SDKs, developers can focus on creating great app experiences rather than the heavy lifting.
+**Particle Network** is a Modular L1 Powering Chain Abstraction. Particle Network's modular L1 blockchain powers chain abstraction and coordinates Universal Accounts across chains, abstracting away wallets, gas, and unifying liquidity. It acts as a universal settlement layer, empowering existing L1s, L2s, and non-EVM blockchains through account coordination.
 
 ## Products
 
