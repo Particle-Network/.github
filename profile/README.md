@@ -4,13 +4,19 @@
 
 ## Products
 
-### Connect Service
+### Smart Wallet-as-a-Service
+
+Particle Network's Smart Wallet-as-a-Service is a collection of technologies and services that facilitate AA-enabled social logins (on-chain smart account creation derived from social accounts) and interaction through application-specific embedded wallet interfaces.
+
+These technologies and services are as follows.
+
+#### Connect Service
 
 **Particle Connect** is the SSO for web3. We help you onboard both Web2 & Web3 users **seamlessly, securely & user-friendly.**
 
 [👉 Learn more about Particle Connect](https://developers.particle.network/docs/building-with-particle-connect)
 
-### Auth Service
+#### Auth Service
 
 **Particle Auth** provides MPC (Multi-Party Computation)-based threshold signatures.
 
@@ -24,15 +30,7 @@ With Particle Auth integrated into your dApp, users can log in within seconds. B
 
 [👉 Learn more about Particle Auth](https://developers.particle.network/docs/building-with-particle-auth)
 
-### BTC Connect
-
-**BTC Connect** is the first account abstraction protocol for the Bitcoin ecosystem.
-
-BTC Connect implements a smart account, Paymaster, Bundler, and unique Bitcoin-specific modal for unified utilization of smart accounts on supported EVM chains (such as Merlin, BEVM, bSquared) through the means of native Bitcoin wallets (such as UniSat, Xverse, etc.).
-
-[👉 Learn more about BTC Connect](https://developers.particle.network/reference/introduction-to-btc-connect)
-
-### Wallet Service
+#### Wallet Service
 
 **Particle Wallet** provides a one-stop wallet solution, which is easy to use but powerful and safe.
 
@@ -40,13 +38,27 @@ We've included detailed designs in our wallet service to create the ultimate use
 
 👉[ Learn more about Particle Wallet](https://developers.particle.network/docs/building-with-particle-wallet)
 
-### Node Service
+#### Node Service
 
 **Particle Node** provides a robust, secure, and highly available blockchain API.
 
 Not only do we have JSON-RPC support, but also enhanced API. This allows you to receive transaction information and NFTs through addresses, obtain token prices, smartly encode/decode transactions, and more. Compared to other node services, you develop your dApp faster while also ensuring that it performs better.
 
 [👉 Learn more about Particle Node](https://developers.particle.network/docs/rpc-nodes)
+
+## BTC Connect
+
+**BTC Connect** is the first account abstraction protocol for the Bitcoin ecosystem.
+
+BTC Connect implements a smart account, Paymaster, Bundler, and unique Bitcoin-specific modal for unified utilization of smart accounts on supported EVM chains (such as Merlin, BEVM, bSquared) through the means of native Bitcoin wallets (such as UniSat, Xverse, etc.).
+
+[👉 Learn more about BTC Connect](https://developers.particle.network/reference/introduction-to-btc-connect)
+
+## Universal Accounts
+
+Powered by Particle Network's Modular L1, Universal Accounts enable true chain abstraction by providing users with a single address, balance, and interaction point for the multi-chain Web3 ecosystem. This removes the need for manual bridging or multi-chain management.
+
+[👉 Learn more about Universal Accounts](https://developers.particle.network/docs/universal-accounts)
 
 ## SDKs
 
