@@ -6,7 +6,7 @@
 
 ### Smart Wallet-as-a-Service
 
-Particle Network's Smart Wallet-as-a-Service is a collection of technologies and services that facilitate AA-enabled social logins (on-chain smart account creation derived from social accounts) and interaction through application-specific embedded wallet interfaces.
+Particle Network's [Smart Wallet-as-a-Service](https://developers.particle.network/docs/understanding-wallet-as-a-service) is a collection of technologies and services that facilitate AA-enabled social logins (on-chain smart account creation derived from social accounts) and interaction through application-specific embedded wallet interfaces.
 
 These technologies and services are as follows.
 
