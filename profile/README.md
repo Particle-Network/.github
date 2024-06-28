@@ -1,6 +1,6 @@
 # Introduction
 
-**Particle Network** is a Modular L1 Powering Chain Abstraction. Particle Network's modular L1 blockchain powers chain abstraction and coordinates Universal Accounts across chains, abstracting away wallets, gas, and unifying liquidity. It acts as a universal settlement layer, empowering existing L1s, L2s, and non-EVM blockchains through account coordination.
+**Particle Network** is a Modular L1 Unifying All Chains Through Universal Accounts, achieving "One Account, One Balance, Any Chain" to address Web3's user and liquidity fragmentation issues. Particle Network's modular L1 blockchain powers chain abstraction and coordinates Universal Accounts across chains, abstracting away wallets, gas, and unifying liquidity. It acts as a universal settlement layer, empowering existing L1s, L2s, and non-EVM blockchains through account coordination.
 
 ## Products
 
