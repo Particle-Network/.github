@@ -70,7 +70,7 @@ Currently, we support almost **all EVM-compatible chains** and **the Solana chai
 
 # Learn More
 
-👩‍💻 Checkout our [**developer docs**](https://developers.particle.network) and start **BUIDL**!
+👩‍💻 Checkout our [**developer docs**](https://developers.particle.network) and start **BUILD**!
 
 🧙 Learn more from our [**website**](https://particle.network)
 
