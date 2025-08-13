@@ -1,77 +1,89 @@
-# Introduction
+# Particle Network
 
-**Particle Network** is a Modular L1 Unifying All Chains Through Universal Accounts, achieving "One Account, One Balance, Any Chain" to address Web3's user and liquidity fragmentation issues. Particle Network's modular L1 blockchain powers chain abstraction and coordinates Universal Accounts across chains, abstracting away wallets, gas, and unifying liquidity. It acts as a universal settlement layer, empowering existing L1s, L2s, and non-EVM blockchains through account coordination.
+**One account. One balance. Any chain.**
 
-## Products
+Particle Network powers **chain abstraction** through its **Universal Accounts**. These provide users with a single account for the entire Web3 ecosystem, eliminating the need to bridge, switch networks, and manage multiple wallets or gas tokens.
 
-### Smart Wallet-as-a-Service
+If you’re building in Web3 and tired of fragmented UX and liquidity, Universal Accounts are for you.
 
-Particle Network's [Smart Wallet-as-a-Service](https://developers.particle.network/docs/understanding-wallet-as-a-service) is a collection of technologies and services that facilitate AA-enabled social logins (on-chain smart account creation derived from social accounts) and interaction through application-specific embedded wallet interfaces.
+**All of this is possible thanks to the Particle Chain, an L1 blockchain acting as the coordination layer for account abstraction across chains.**
 
-These technologies and services are as follows.
+🔗 [Learn more about Universal Accounts](https://developers.particle.network/universal-accounts/cha/overview)
 
-#### Connect Service
+---
 
-**Particle Connect** is the SSO for web3. We help you onboard both Web2 & Web3 users **seamlessly, securely & user-friendly.**
+## What can I build?
 
-[👉 Learn more about Particle Connect](https://developers.particle.network/docs/building-with-particle-connect)
+With Universal Accounts, you can build apps where:
 
-#### Auth Service
+- Users have a combined balance, spendable in one go—even if they deposit tokens from multiple chains or even hold different stablecoins.
+- Anyone can deposit assets from any chain.
+- UX feels like a Web2 app, even while powered by 10+ chains in the background.
+- Cross-chain logic (e.g. payments, mints, asset transfers) is handled at the account level.
+- Your smart contracts can interact with users from any network through a unified account layer.
 
-**Particle Auth** provides MPC (Multi-Party Computation)-based threshold signatures.
+👉 This works with the tools you’re already using — ethers, wagmi, etc.
 
-With threshold signatures, each party creates an independent key. They then forge the vault’s lock together in a modular way, in which each party shapes a part of the lock that corresponds to its key.
+---
 
-Our security is unlike any other auth/wallet service: it's better. Complex passwords and long seed phrases, browser extensions, and special hardware are no longer required for log-in. Instead, accounts are secured by industry-leading TSS implementation and KMS encryption.
+## Quick integration steps
 
-[👉 Learn more about how we implement this 🔐](https://developers.particle.network/docs/security-mpc-tss)
+Integrating Universal Accounts is fairly simple:
 
-With Particle Auth integrated into your dApp, users can log in within seconds. By removing seed phrases, we can increase conversion rates by up to 64% for both new and Web3.0 users.
+1. Set up your auth method.
+2. Initialize the Universal Accounts SDK.
+3. Fetch the universal address.
+4. Build and send UserOperations using any supported chain.
+5. Done. Your app is now chain-agnostic.
 
-[👉 Learn more about Particle Auth](https://developers.particle.network/docs/building-with-particle-auth)
+📚 Full docs & examples:
 
-#### Wallet Service
+https://developers.particle.network/universal-accounts/cha/overview
 
-**Particle Wallet** provides a one-stop wallet solution, which is easy to use but powerful and safe.
+---
 
-We've included detailed designs in our wallet service to create the ultimate user experience. By integrating Particle Wallet with a one-line code, we help you provide users with token and NFT-related functions, transaction and payment processes, as well as other operations to deliver a first-class user experience.
+## Supported chains
 
-👉[ Learn more about Particle Wallet](https://developers.particle.network/docs/building-with-particle-wallet)
+Universal Accounts support almost all EVM chains AND Solana, with more chains being added constantly.
 
-#### Node Service
+To users, this means two primary addresses.
 
-**Particle Node** provides a robust, secure, and highly available blockchain API.
+Check our [network coverage here](https://developers.particle.network/universal-accounts/cha/chains).
 
-Not only do we have JSON-RPC support, but also enhanced API. This allows you to receive transaction information and NFTs through addresses, obtain token prices, smartly encode/decode transactions, and more. Compared to other node services, you develop your dApp faster while also ensuring that it performs better.
+---
 
-[👉 Learn more about Particle Node](https://developers.particle.network/docs/rpc-nodes)
+## **Social logins & account abstraction**
 
-## BTC Connect
+Beyond Universal Accounts, Particle Network also provides tools to facilitate onboarding UX:
 
-**BTC Connect** is the first account abstraction protocol for the Bitcoin ecosystem.
+- **Social logins** – Allow your users to create an in-dApp wallet by logging in with Google, Apple, email, and other Web2 accounts. No seed phrases, no friction.
 
-BTC Connect implements a smart account, Paymaster, Bundler, and unique Bitcoin-specific modal for unified utilization of smart accounts on supported EVM chains (such as Merlin, BEVM, bSquared) through the means of native Bitcoin wallets (such as UniSat, Xverse, etc.).
+→ [Learn more about Particle Connect](https://developers.particle.network/api-reference/connect/introduction)
 
-[👉 Learn more about BTC Connect](https://developers.particle.network/reference/introduction-to-btc-connect)
+- **Account abstraction** – Leverage account programmability by powering gasless transactions, smart accounts, and programmable user wallets.
 
-## Universal Accounts
+These tools work independently or alongside Universal Accounts to make Web3 feel as easy as Web2.
 
-Powered by Particle Network's Modular L1, Universal Accounts enable true chain abstraction by providing users with a single address, balance, and interaction point for the multi-chain Web3 ecosystem. This removes the need for manual bridging or multi-chain management.
+---
 
-[👉 Learn more about Universal Accounts](https://developers.particle.network/docs/universal-accounts)
+## Community
 
-## SDKs
+- Docs: [https://developers.particle.network](https://developers.particle.network/)
+- Discord: https://discord.gg/2y44qr6CR2
+- GitHub: https://github.com/particle-network
 
-We support [Android, iOS, Web, Unity, Flutter and React Native](https://github.com/particle-network) now. The other platforms' SDK are in development and will launch soon.
+---
 
-## Available Networks
+## TL;DR for devs
 
-Currently, we support almost **all EVM-compatible chains** and **the Solana chain**. [👉 For details check this](https://developers.particle.network/docs/network-coverage)
+If you want to let users:
 
-# Learn More
+- Log in once.
+- Have a combined account and balance for all chains.
+- Just enjoy your app.
 
-👩‍💻 Checkout our [**developer docs**](https://developers.particle.network) and start **BUIDL**!
+Then you want **chain abstraction**.
 
-🧙 Learn more from our [**website**](https://particle.network)
+You want **Universal Accounts**.
 
-🙋‍♀️ Join our [**Discord developer community**](https://discord.gg/2y44qr6CR2)
+Start building → [Universal Accounts SDK](https://developers.particle.network/universal-accounts/cha/overview)
