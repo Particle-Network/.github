@@ -69,7 +69,7 @@ These tools work independently or alongside Universal Accounts to make Web3 feel
 ## Community
 
 - Docs: [https://developers.particle.network](https://developers.particle.network/)
-- Discord: https://discord.gg/2y44qr6CR2
+- Slack: [Join Particle's Slack](https://join.slack.com/t/particlenetworkhq/shared_invite/zt-3blxdzcd2-7skD8MNWUn_20eOrp9SICA)
 - GitHub: https://github.com/particle-network
 
 ---
