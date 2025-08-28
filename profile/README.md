@@ -12,6 +12,12 @@ If you’re building in Web3 and tired of fragmented UX and liquidity, Universal
 
 ---
 
+What to connect?
+
+Join our [Slack channel](https://join.slack.com/t/particlenetworkhq/shared_invite/zt-3blxdzcd2-7skD8MNWUn_20eOrp9SICA) to connect with other developers building on Particle. It’s the place to ask questions, swap ideas, and share your progress.
+
+---
+
 ## What can I build?
 
 With Universal Accounts, you can build apps where:
